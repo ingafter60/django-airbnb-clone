@@ -32,3 +32,8 @@ Cloning Airbnb with Python, Django, Tailwind and more ...
 
 > - Customizing Users panel and filtering users fields
 > - Git repo: 3.4 Falling in Love with Admin Panel (9-12)
+
+### 3.5 UserAdmin + CustomAdmin (6-15)
+
+> - Customizing User panel by modifying admin.py
+> - Git repo: 3.5 UserAdmin + CustomAdmin (6-15)
