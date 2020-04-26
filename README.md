@@ -19,4 +19,11 @@ Cloning Airbnb with Python, Django, Tailwind and more ...
 
 ### 3.2 First Model Fields (11-49)
 
-> -
+> - Added avatar, gender and bio field to Users table
+> - Distinguishing null=True, blank=True, and default=""
+> - Git repo: 3.2 First Model Fields (11-49)
+
+### 3.3 Finishing User Model (7-15)
+
+> - Added more fields (GANDER_CHOICES, CURRENCY_CHOICES, and LANGUANGE_CHOICES) to Users table
+> - Git repo: 3.2 First Model Fields (11-49)
