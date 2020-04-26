@@ -27,3 +27,8 @@ Cloning Airbnb with Python, Django, Tailwind and more ...
 
 > - Added more fields (GANDER_CHOICES, CURRENCY_CHOICES, and LANGUANGE_CHOICES) to Users table
 > - Git repo: 3.2 First Model Fields (11-49)
+
+### 3.4 Falling in Love with Admin Panel (9-12)
+
+> - Customizing Users panel and filtering users fields
+> - Git repo: 3.4 Falling in Love with Admin Panel (9-12)
