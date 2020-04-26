@@ -16,3 +16,7 @@ Cloning Airbnb with Python, Django, Tailwind and more ...
 > - Added User model (returning Users to admin)
 > - Added Biografi field to Users
 > - Git repo: 3.1 Introduction to the User Model (8-02)
+
+### 3.2 First Model Fields (11-49)
+
+> -
