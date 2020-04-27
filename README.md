@@ -79,3 +79,13 @@ Cloning Airbnb with Python, Django, Tailwind and more ...
 > - Add class Meta in this model
 > - To use 'TimeStampedModel', import it to the respective models of the application
 > - Git repo : 4.0 TimeStampedModel (7-16)
+
+### 4.1 Room Model part One (12-24)
+
+> - Install django-countries from this link: https://github.com/SmileyChris/django-countries
+> - Register the third party app to settings
+> - Create abstract model in core/models.py, and named it 'TimeStampedModel' with Meta class
+> - Impor django-countries, Core, Users models to Room model
+> - Create talbe fields for Room in Room model
+> - Add relationship between Users model and Room models (use foreignkey)
+> - Git repo : 4.1 Room Model part One (12-24)
