@@ -89,3 +89,16 @@ Cloning Airbnb with Python, Django, Tailwind and more ...
 > - Create talbe fields for Room in Room model
 > - Add relationship between Users model and Room models (use foreignkey)
 > - Git repo : 4.1 Room Model part One (12-24)
+
+### 4.2 Foreing Keys like a Boss (6-24)
+
+> - Explained about the relationship between the User and Room
+> - So, a User can have as many rooms as he/she wants, but a room is belong to only a User
+
+### 4.3 ManyToMany like a Boss (11-31)
+
+> - Modify the rooms/models.py to display name instead of object
+> - Add many to many relationship in users/models.py
+> - Modify the core/models.py
+> - Add some room types in admin
+> - Git repo : 4.3 ManyToMany like a Boss (11-31)
