@@ -70,3 +70,12 @@ Cloning Airbnb with Python, Django, Tailwind and more ...
 > - Restart the server
 > - Git repo : 4.00 Start from ZERO
 
+### 4.0 TimeStampedModel (7-16)
+
+> - Create an app named it 'core'
+> - Register the core app
+> - In core/model.py create an abstract class named it 'TimeStampedModel'
+> - Note: all the fields in TimeStampedModel will be extended to almost all of the app due to the fields in this model are repeted fields
+> - Add class Meta in this model
+> - To use 'TimeStampedModel', import it to the respective models of the application
+> - Git repo : 4.0 TimeStampedModel (7-16)
