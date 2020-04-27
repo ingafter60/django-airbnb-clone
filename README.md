@@ -57,3 +57,16 @@ Cloning Airbnb with Python, Django, Tailwind and more ...
 > - 15. To use our "users.User" model, we must tell the settings.py by puting this codes "AUTH_USER_MODEL="users.User" in it. In this case, we modify the look of the admin panel as we like by using django user.
 > - 16. REGISTER: If you want django to see your app, you MUST REGISTER it in settings.py, otherwise, it will we just a folder for nothing in the project.
 > - Git repo: 3.6 RECAP OMG! (11-02)
+
+
+### 4 Room App
+
+### 4.00 Start from ZERO
+
+> - Delete all migration files
+> - Delete the db
+> - Re-configure User model
+> - Make migrations, migrate, createsuperuser
+> - Restart the server
+> - Git repo : 4.00 Start from ZERO
+
